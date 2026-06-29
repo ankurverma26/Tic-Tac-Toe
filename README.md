@@ -2,20 +2,28 @@
 
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
-## Features
-- Two-player gameplay
-- Detects the winner
-- Reset game option
-- Simple and responsive UI
+## 🌐 Live Demo
 
-## Technologies Used
+👉 **[Play Tic-Tac-Toe](https://ankurverma26.github.io/Tic-Tac-Toe/)**
+
+## ✨ Features
+
+- Two-player gameplay
+- Winner detection
+- Reset game
+- Responsive design
+
+## 🛠️ Technologies Used
+
 - HTML
 - CSS
 - JavaScript
 
-## How to Run
-1. Download or clone the repository.
+## 🚀 How to Run
+
+1. Clone the repository.
 2. Open `index.html` in your browser.
 
-## Author
+## 👨‍💻 Author
+
 Ankur Verma
