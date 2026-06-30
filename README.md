@@ -2,10 +2,6 @@
 
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
-## 🌐 Live Demo
-
-👉 **[Play Tic-Tac-Toe](https://ankurverma26.github.io/Tic-Tac-Toe/)**
-
 ## ✨ Features
 
 - Two-player gameplay
